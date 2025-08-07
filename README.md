@@ -1,2 +1,4 @@
 # AddressBook
-A simple address book application in C that allows users to add, search, and delete contacts.
+A simple command line address book application for storing and displaying contact details written in C
+
+Getting Started
