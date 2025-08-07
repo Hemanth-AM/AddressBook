@@ -3,13 +3,13 @@ A simple command line address book application for storing and displaying contac
 #Getting Started
 Copy the repository to a folder. Delete the shared library file (.so) and executable file (.out or .exe). First execute 'make' command in /Functions directory and then execute 'make' command in /Main directory. An executable file (.out or .exe) and a shared object (.so) will be generated in /Main and /Functions directory respectively. Execute the .out(.exe) file from /Main to run the application
 
-#Prerequisites
+# Prerequisites
 OS - Linux (might work on Windows also with Linux subshell) Compiler - gcc (preferred)
 
-#Installing
+# Installing
 Nothing to install just ensure that you have gcc compiler (haven't tried other compilers)
 
-#Using the application
+# Using the application
 Execution
 
 ./main.out <file>
@@ -25,7 +25,7 @@ enter your option:
 Built With
 vim - text editor
 OS - ubuntu 18.04
-#Author
+# Author
 Hemanth AM
 Acknowledments
 Emertxe Information Technologies Pvt Ltd - for providing idea of this project
